@@ -1,0 +1,13 @@
+flask
+flask-cors
+qiskit>=1.0
+qiskit-machine-learning>=0.7.2
+yfinance
+pandas
+numpy
+scikit-learn
+joblib
+transformers
+torch
+requests
+beautifulsoup4
